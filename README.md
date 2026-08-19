@@ -5,9 +5,6 @@
 I’m a **Full Stack Engineer and AI Product Engineer** with 4+ years of experience building and shipping production-grade applications across **AI, fintech, logistics, EV-tech, and e-commerce**.
 
 I specialize in designing scalable backend systems, building modern frontend applications, integrating AI/LLM capabilities, and developing real-time systems.
-
-Currently, I'm working on **AI-powered workplace products** involving **RAG, vector databases, MCP tool calling, LLM APIs, Slack and Microsoft Teams integrations**.
-
 ---
 
 ## 🚀 About Me
